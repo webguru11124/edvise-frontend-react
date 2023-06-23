@@ -1,0 +1,12 @@
+.ReactCrop__crop-selection {
+  border-radius: 50%;
+  border: 2px solid white;
+}
+
+.ReactCrop__crop-selection:focus {
+  border-color: white;
+}
+
+.ReactCrop__drag-elements {
+  display: none;
+}

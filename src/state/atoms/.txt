@@ -1,0 +1,2 @@
+this is a different atom folder from what we have in the storybook folder
+we will be use the library jotai to further help us with how we handle our state
