@@ -1,0 +1,21 @@
+.ProseMirror {
+  outline: none;
+  min-height: 100px;
+}
+
+.scrollable-tiptap .ProseMirror {
+  height: 200px;
+  overflow-y: auto;
+}
+
+.button-container .toolbar-button {
+  margin-right: 0.75rem;
+  color: #475569;
+  padding: 0.25rem;
+  border-radius: 0.5rem;
+}
+
+.button-container .toolbar-button.active {
+  background-color: rgb(37 99 235 / var(--tw-bg-opacity));
+  color: white;
+}

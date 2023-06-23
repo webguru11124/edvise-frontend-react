@@ -1,0 +1,7 @@
+scripts/
+node_modules/
+dist/
+build/
+*.config.js
+src/__generated/
+src/gql
